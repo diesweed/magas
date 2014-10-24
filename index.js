@@ -1,0 +1,6 @@
+
+/**
+ * @module magas
+ * @author diesweed
+ */
+
